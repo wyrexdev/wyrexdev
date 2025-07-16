@@ -18,7 +18,7 @@ For me, coding is more than a job; it is a habit and a continuous process of imp
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,aws,git,github,py&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,aws,git,github,androidstudio,cs,arch,linux,py&perline=6&theme=dark" />
   </a>
 </p>
 
