@@ -42,7 +42,7 @@ For me, coding is more than a job; it is a habit and a continuous process of imp
 
 </div>
 
-## Contact Me
+## Contact
 
 **Discord:** wyrex
 
