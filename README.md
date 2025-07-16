@@ -14,7 +14,7 @@ I focus on building solutions that prioritize performance, security, and efficie
 
 For me, coding is more than a job; it is a habit and a continuous process of improvement.
 
-## I use
+## I Use
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,5 +41,9 @@ For me, coding is more than a job; it is a habit and a continuous process of imp
 [![GitHub Streak](https://streak-stats.demolab.com?user=wyrexdev&theme=github-dark&border_radius=20&border=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
 
 </div>
+
+## Contact Me
+
+**Discord:** wyrex
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
