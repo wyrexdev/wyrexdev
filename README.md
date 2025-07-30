@@ -38,7 +38,7 @@ For me, coding is more than a job; it is a habit and a continuous process of imp
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=wyrexdev&theme=github-dark&border_radius=20&border=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-teal-mu.vercel.app?user=wyrexdev)](https://github.com/wyrexdev)
 
 </div>
 
