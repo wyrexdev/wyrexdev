@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a 17-year-old software developer based in Türkiye. I have been actively working on software development since the age of 12.
+I am a 18-year-old software developer based in Türkiye. I have been actively working on software development since the age of 12.
 
 I mostly work with technologies such as Node.js, ScyllaDB, Redis, Nginx, Java (especially backend), OpenGLES, Unity, and PyTorch. I have a particular interest in Linux system administration and low-level optimizations.
 
