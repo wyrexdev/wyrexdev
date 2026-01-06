@@ -38,6 +38,8 @@ For me, coding is more than a job; it is a habit and a continuous process of imp
 
 <div align="center">
 
+[![GitHub Streak](https://github-readme-streak-stats-teal-mu.vercel.app?user=wyrexdev)](https://github.com/wyrexdev)
+
 </div>
 
 ## Contact
