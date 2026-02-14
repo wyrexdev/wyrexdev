@@ -6,18 +6,15 @@
 
 ## About Me
 
-I am an 18-year-old systems architecture developer obsessed with complex and difficult problems.
+I am an 18-year-old systems architecture developer driven by complex and high-impact problems.
 
-My core interest lies in low-level software development. If an architecture does not permit this, I adapt without hesitation—but my instinct is always to go as close to the metal as possible. I prefer building libraries from scratch, understanding every abstraction I rely on, rather than consuming them blindly.
+My primary focus is low-level software development and system design. I naturally gravitate toward understanding how systems operate at their core—preferring to build libraries and tools from scratch rather than relying on abstractions I do not fully understand. When architectural constraints require higher-level solutions, I adapt pragmatically; however, my instinct is always to optimize from the lowest possible layer.
 
-I started programming at the age of 11 with Android development. Through web development, I gradually learned how real-world systems are structured. That long journey gave me deep experience in REST APIs, Linux server administration, DevOps, and cybersecurity.
+I began programming at the age of 11 with Android development. Over time, web development introduced me to real-world system architecture, where I gained practical experience in REST APIs, Linux server administration, DevOps, and cybersecurity.
 
-My curiosity for Linux eventually led me to Arch Linux, where I took my first serious steps into low-level development and system-oriented thinking.
+My transition to Arch Linux marked a turning point, pushing me deeper into system-level programming and infrastructure design.
 
-Parallel to all of this, I have an fascination with the human brain. I have run many experiments—none of them successful yet—but failure has never stopped me. Understanding intelligence, emergence, and behavior is not a side interest for me; it is something I intend to solve.
-
-Today, this is no longer just an interest or a career path.
-It is simply how I live.
+I am particularly motivated by solving hard engineering problems that demand precision, performance, and deep technical understanding. Software development is no longer just a discipline or career direction for me—it is the framework through which I think and build.
 
 ## I Use
 
