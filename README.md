@@ -46,8 +46,6 @@ I am particularly motivated by solving hard engineering problems that demand pre
 
 ## Contact
 
-**Discord:** wyrex
-<br>
-**E-mail:** omer@vobrow.com
+**E-mail:** o.karakas.dev@gmail.com
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
