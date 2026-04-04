@@ -44,8 +44,4 @@ I am particularly motivated by solving hard engineering problems that demand pre
 
 </div>
 
-## Contact
-
-**E-mail:** o.karakas.dev@gmail.com
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
