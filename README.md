@@ -1,4 +1,4 @@
-<img src="https://cdn.vobrow.com/w-about-me.png" style="border-radius: 30px;"/>
+<img src="https://cdn.vobrow.com/w-about-me-1.1.png" style="border-radius: 30px;"/>
 
 
 
@@ -13,4 +13,4 @@
 
 </div>
 
-<img src="https://cdn.vobrow.com/w-contact-me.png" style="border-radius: 30px;"/>
+<img src="https://cdn.vobrow.com/w-contact-me-1.1.png" style="border-radius: 30px;"/>
