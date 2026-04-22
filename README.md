@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-teal-mu.vercel.app?user=wyrexdev&theme=tokyonight-duo&border_radius=10&short_numbers=true)](https://github.com/wyrexdev)
+[![GitHub Streak](https://github-readme-streak-stats-teal-mu.vercel.app?user=wyrexdev&theme=tokyonight-duo&border_radius=10&short_numbers=true&hide_border=true)](https://github.com/wyrexdev)
 
 </div>
 
