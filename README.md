@@ -1,11 +1,8 @@
-<img src="https://cdn.vobrow.com/w-about-me-1.1.png" style="border-radius: 30px;"/>
-
-
+<img src="https://cdn.vobrow.com/w/w-about-me-1.2.png" style="border-radius: 30px;"/>
 
 <div style="height: 100px;"></div>
 
-
-<img src="https://cdn.vobrow.com/w-stats.png" style="border-radius: 30px;"/>
+<img src="https://cdn.vobrow.com/w/w-stats-1.2.png" style="border-radius: 30px;"/>
 
 <div align="center">
 
@@ -13,4 +10,4 @@
 
 </div>
 
-<img src="https://cdn.vobrow.com/w-contact-me-1.1.png" style="border-radius: 30px;"/>
+<img src="https://cdn.vobrow.com/w/w-contact-me-1.2.png" style="border-radius: 30px;"/>
