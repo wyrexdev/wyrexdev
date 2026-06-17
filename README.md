@@ -1,8 +1,8 @@
-[![GitHub Streak](https://cdn.vobrow.com/w/w-about-me-1.2.png)](https://github.com/wyrexdev)
+[![GitHub Streak](https://s6.imgcdn.dev/YbHJjC.png)](https://github.com/wyrexdev)
 
 <div style="height: 100px;"></div>
 
-[![GitHub Streak](https://cdn.vobrow.com/w/w-stats-1.2.png)](https://github.com/wyrexdev)
+[![GitHub Streak](https://s6.imgcdn.dev/YbHEdS.png)](https://github.com/wyrexdev)
 
 <div align="center">
 
@@ -10,4 +10,4 @@
 
 </div>
 
-[![GitHub Streak](https://cdn.vobrow.com/w/w-contact-me-1.2.png)](https://github.com/wyrexdev)
+[![GitHub Streak](https://s6.imgcdn.dev/YbHoPe.png)](https://github.com/wyrexdev)
